@@ -35,7 +35,7 @@
 - Enhanced real-time data processing for **personalized user experiences**  
 - Integrated ML models for **NLP, content generation, and personalization**  
 - Ensured **secure, high-performance APIs** optimized for scalability
-- - Live at: [video.ohgrt.com](https://leelaland.fun/)   
+- - Live at: [leelaland.fun](https://leelaland.fun/)   
 
 #### 🔹 Ohgrt – FastAPI & Generative AI-based Video Platform  
 - Contributed as **Backend Developer** for a **Generative AI-powered video generation platform**  
